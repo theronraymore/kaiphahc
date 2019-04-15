@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://deikaevair.oxynum.fr/sitemap.xml
